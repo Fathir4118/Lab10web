@@ -201,7 +201,4 @@ class Database {
 ![add](img/add.png)
 
 ### Edit
-![edit](img/edit.png)
-
-### Delete
-![delete](img/delete.png)
+![edit](img/IMG-20251204-WA0006(1).jpg)
